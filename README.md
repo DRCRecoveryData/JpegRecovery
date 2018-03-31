@@ -10,6 +10,7 @@ Run the program in Terminal in macOS and Linux, command prompt in Windows.
 
 # Command to run program
 $ gcc -o RecoveryJpeg.c RecoveryJpeg
+
 $ ./RecoveryJpeg filename.raw
 
 After running you will see all jpeg images recovered in your current working directory.
